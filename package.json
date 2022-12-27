@@ -1,5 +1,5 @@
 {
-  "name": "node-thermal-printer",
+  "name": "@allyyssoonnn/node-thermal-printer",
   "version": "4.1.2",
   "description": "Print on Epson, Tanca and Star thermal printers with NodeJS",
   "main": "node-thermal-printer.js",
